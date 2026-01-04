@@ -9,7 +9,7 @@ This project delivers an end-to-end car sales analysis using Python for explorat
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Power BI
-- CSV Dataset
+- Excel Dataset
 
 ---
 
